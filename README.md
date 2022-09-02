@@ -52,7 +52,7 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
  
  
  # Curiosidades
-  octodex: octodex.github.com
+  octodex: [octodex.github.com](https://octodex.github.com/)
  
  # Fonte de estudo
  https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA

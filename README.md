@@ -4,6 +4,7 @@ Branch criada com o intuito de estudo e documentação sobre o github
 ## Git github
 
 o que é git: 
+
   Git: Global Infomation tracker
   
   software de controle de versão
@@ -11,13 +12,16 @@ o que é git:
   criado por Linus Torvalds - desenvolvedor do Kernel linux
     
 o que é github: 
-    plataforma de rede sociais para programadores, onde os codigos ficarão salvos
+
+   Plataforma de rede sociais para programadores, onde os codigos ficarão salvos
     
-    Bseado em Git
+   Baseado em Git
   
 
 # GIT
+
 Versionamento de codigo, software
+
 Versões são muitas de uma mesma coisa, varios modos de como estão as coisas 
 
  commit: 
@@ -47,7 +51,8 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
  
  
  
- 
+ # Curiosidades
+  octodex: octodex.github.com
  
  # Fonte de estudo
  https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA

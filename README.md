@@ -1,7 +1,7 @@
-# gitHub
+
 Criado com o intuito de estudo e documentação sobre o Git e GitHub
 
-# Git github  
+# Git GitHub  
 Neste repositório, trago um estudo do básico ao mais avançado, sobre Git e GitHub (sim, são coisas diferentes!)
 Este estudo tem um começo mais denso, em relação a quantidade de inputs de informações e atualizações, porém também conterá atualizações constantes, à medida que necessidades e estudos forem sendo vistas.
 

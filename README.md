@@ -1,5 +1,5 @@
 # gitHub
-Branch criada com o intuito de estudo e documentação sobre o github
+Criado com o intuito de estudo e documentação sobre o Git e GitHub
 
 # Git github  
 Neste repositório, trago um estudo do básico ao mais avançado, sobre Git e GitHub (sim, são coisas diferentes!)

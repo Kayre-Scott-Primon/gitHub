@@ -9,7 +9,7 @@ Este estudo tem um começo mais denso, em relação a quantidade de inputs de in
 Nele terá exemplos, dicas, fontes de estudos, curiosidades e muito mais! 
 
 ## Contribuição com informações
-Crio esse repositório de forma pública afim de atingir a todos, sendo que está começando, sendo aqueles que já possuem conhecimento para agregar; por isso fico muito contente que leiam o documento e se possível, contribua, ou com comentários sobre indicações de estudos, correções de conteúdos,e até mesmo com elogios e/ou críticas (elas são muito importantes para nosso desenvolvimento)! 
+Crio esse repositório de forma pública afim de atingir a todos, sendo quem está começando, sendo aqueles que já possuem conhecimento para agregar; por isso fico muito contente que leiam o documento e se possível, contribua, ou com comentários sobre indicações de estudos, correções de conteúdos,e até mesmo com elogios e/ou críticas (elas são muito importantes para nosso desenvolvimento)! 
  
 # Fonte de estudo
  https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA

@@ -2,7 +2,7 @@
 
 Neste documento conterá uma explicação de como você tendo um projeto, feito sem o GIT, adicione-o no GIT
 
-#### utilizando interface gráfica
+### utilizando interface gráfica
 
 Quando você utiliza a interface gráfica, as coisas ficam mais visuais, assim fica mais facil as ações.
 
@@ -51,7 +51,31 @@ Dica: verificque se nãp há nenhum arquivo inútil que foi carregado junto. Cas
 
 
 
-#### utilizando terminal
+### utilizando terminal
 
-... à completar
+O primeiro passo é criar um repositório no GitHub através do navegador.
 
+Feito isso, no seu terminal, realize:
+
+- navegue até o diretório do projeto
+- Execute 
+
+      git init
+
+- Execute 
+
+      git remote add origin <url_repo_gitHub>
+
+- Execute 
+
+      git add .
+
+- Execute 
+
+      git commit -m '<comentario_desejado>'
+
+- Execute
+
+      git push
+
+Pronto, projeto local enviado para um repositório remoto.

@@ -67,7 +67,8 @@ Quando se utiliza pela primeira vez, é poreciso realizar algumas configuraçõe
 e tambem
 
        git config -global user.email "SeuEmail@aqui"
-   
+  
+Aqui deve-se usar o mesmo email que está cadastrado na sua conta do GitHub, para que a plataforma consiga te identificar
    
 ### Usando o git 
    

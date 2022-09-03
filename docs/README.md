@@ -13,7 +13,7 @@ Nele terá exemplos, dicas, fontes de estudos, curiosidades e muito mais!
 - [Hospedagem](Hospedagem.md)
 - [Issue](Issue.md)
 - [Markdown](Markdown.md)
-- [Pullrequest](PuellReques.md)
+- [Pullrequest](PullRequest.md)
 - [Segurança](Segurança.md)
 - [Versionamento de projetos antigos](VersionamentoProjetosAntigos.md)
 

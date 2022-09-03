@@ -81,7 +81,10 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
   Se utilizando terminal, basta: 
   
   - Navegue, pelo terminal, até o diretório que se deseja salvar/manter os arquivos de versionamento do projeto
-  - Execute o comando `git init`
+  - Execute o comando 
+
+        git init
+
   - Para enviar esse repositório para o remoto/GitHub, realize o processo de _pull_
  
  
@@ -97,8 +100,17 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
   
   Se utilizando o terminal, basta
    - Verificar se está no diretório do projeto
-   - adicionar as mudanças -> `git add -p` ou `git add .`
-   - commitar com o repositório local -> `git commit -m 'algum comentadio desejado'`
+   - adicionar as mudanças 
+
+         git add .
+         
+       ou
+       
+         git add -p
+
+   - commitar com o repositório local
+
+         git commit -m 'algum comentadio desejado'
     
 #### push
   Assim se prossegue por várias situações, até em que chega o momento que você deseja alinhar/enviar as alterações feitas 
@@ -111,7 +123,9 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
     
    
    Se utilizando o terminal, basta:
-   - Dentro do diretório do projeto, executa-se `git push`
+   - Dentro do diretório do projeto, executa-se
+
+         git push
     
   Pronto, agora seu remoto está alinhado com seu local.
   
@@ -125,7 +139,9 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
    
    
    Se utilizando o termnial, basta:
-   - no diretório do projeto, execute `git fetch`
+   - no diretório do projeto, execute
+
+          git fetch
    
    Observação impoetante: esse comando apenas identificará a diferenças da branch local com a remota, não irá realizar nenhuma alteração
    
@@ -137,7 +153,9 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
   - OBS: caso não haja pull a ser feita, não aparecerá esta opção
 
   Se utilizando o terminal, basta:
-  - No diretório do projeto, execute `git pull`
+  - No diretório do projeto, execute
+
+         git pull
 
   
 #### clone
@@ -155,23 +173,25 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
   Se utilizando o terminal, basta: 
   - No terminal, navegue até o local em que deseja salrvar/baixar os arquivos do projeto
   - No modal mostrado no site, quando se clicou em `Clone or download`, terá um campo contendo uma URL (na aba HTTPS), copie essa URL
-  - no terminal, digite `git clone <--a url_copiada_do_site-->`
+  - no terminal, digite
+
+         git clone <--a url_copiada_do_site-->
   
  OBS: Quando se clona repositórios que não são seus, você pode tranquilamente realizar alterações locais, porém não será permitido que voce realise alterações no repositório de origem/remoto!
     
 # Definições importantes (e que te ajudará a compreender melhor)
  
 #### commit
-    atualizar o repositório
+> atualizar o repositório
    
 #### push
-    dar uma descarga/decarregar, ou seja, empurrar aquele conjunto de alterações para o remoto
+> dar uma descarga/decarregar, ou seja, empurrar aquele conjunto de alterações para o remoto
    
 #### pull
-     trazer/puxar alterações
+> trazer/puxar alterações
      
 #### fetch
-     irá analisar a diferenças entre remoto e local, irá buscar atualizações do remoto
+> irá analisar a diferenças entre remoto e local, irá buscar atualizações do remoto
  
 # Curiosidades
   octodex: [octodex.github.com](https://octodex.github.com/)

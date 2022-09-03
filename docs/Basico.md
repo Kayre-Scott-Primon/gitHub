@@ -57,6 +57,17 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
    
    Assim, pode-se já começar a manipular seu repositório remoto e local
    
+
+#### Configurando - terminal
+
+Quando se utiliza pela primeira vez, é poreciso realizar algumas configurações, que servirão de informações quando realizadas ações
+
+        git config -global user.name "Seu nome aqui"
+        
+e tambem
+
+       git config -global user.email "SeuEmail@aqui"
+   
    
 ### Usando o git 
    

@@ -43,6 +43,22 @@ No terminal bash, onde voce realiza os comandos git, dentro do seu diretório do
     
 Pronto, aqui você já criou uma nova branch. Vale ressaltar que essa branch foi criada com base na branch que sua ferramenta de versionamento estava olhando.
 
+### Vendo branches existentes
+
+É interessante que se consiga ver as branches que existem em tal repositório.
+
+#### GitHubDesktop
+
+Utilizando o aplicativo do GitHub, basta clicar no card _Current branch_ que irá mostrar a branch em que está, a branch padrão e todas as outras refefente à tal repositoório
+
+#### terminal
+
+Utilizando o terminal git, no diretório do projeto, execute o comando
+
+        git branch
+        
+E então será retornada uma lista com todos os branches so repositório.
+
 ## Trocando de branches
 
 Temos algumas formas  para se locomover entre Branches, ou seja, trocar de branch, porém aqui darei o foco para as formas mais usadas

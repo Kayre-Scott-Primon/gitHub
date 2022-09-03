@@ -27,7 +27,7 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
   - Segurança
   - Organização
  
- ## GitHub
+## GitHub
   O git hub é um repositório local,
   a empresa criou uma rede social/comunidade
   
@@ -58,11 +58,11 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
    Assim, pode-se já começar a manipular seu repositório remoto e local
    
    
- ### Usando o git 
+### Usando o git 
    
    Aqui conterá a parte básica do uso do Git, porem dentro deste respositório, haverão demais arquivos contendo mais informações!
    
- #### criando um repositório
+#### criando um repositório
    Para começar a trabalhar com o git, é preciso cirar um repositprio para armazenar seus versionamentos realizados pelo GIT, para isso segue-se os passos:
    
    Se utilizando a interface gráfica, basta:

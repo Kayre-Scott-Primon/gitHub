@@ -47,11 +47,11 @@ Versões são muitas de uma mesma coisa, varios modos de como estão as coisas
  
 ### instalações
  
-   git: https://git-scm.com/
+   git: [Link site GIT](https://git-scm.com/)
  
  Aqui pode-se tomar duas diretivas, uma delas é utilizar uma interface gráfica, e a outra é utilizar um bash, ou terminal
   
-   gitHubDesktop: https://desktop.github.com/
+   gitHubDesktop: [Link site GitHubDesktop](https://desktop.github.com/)
    
    Com essa feraamenta instala, ao inicializar, é preciso logar com a conta do gitHub
    

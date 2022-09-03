@@ -103,21 +103,65 @@ Nisto existem dois cenários:
 
 Ambos reagiram da mesma forma, que é de te avisar e mostrar onde ocorreu o conflito, indicando que você resolva o mesmo antes de continuar com o processo de mesclagem.
 
-No caso do __terminal__, após a execução do comando, ele indicará, no nome do branch, que houve conflito, assim voce pode realizar essa correção no seu editor de texto preferido.
+#### No caso do __terminal__
 
-No caso do __GitHubDescktop__, quando você seleciona um branch para puxar as alterações, ele já mostra um warning avisando que irá ocorre conflito. Caso queira continuar, pode-se clicar para realizar a ação do _merge_, trnaquilament, pois a partir daí, como no terminal, ele pedirá que você resolva os conflitos antes de continuar com o processo
+Após a execução do comando, ele indicará, no nome do branch, que houve conflito, assim voce pode realizar essa correção no seu editor de texto preferido.
+
+#### No caso do __GitHubDescktop__
+
+Quando você seleciona um branch para puxar as alterações, ele já mostra um warning avisando que irá ocorre conflito. Caso queira continuar, pode-se clicar para realizar a ação do _merge_, trnaquilament, pois a partir daí, como no terminal, ele pedirá que você resolva os conflitos antes de continuar com o processo
 
 COMENTÁRIO: recomendação de uso, para a correção dos conflitos, o VisualStudioCode, pois ele mostra visualmente as diferenças entre os códigos.
 
 Finalizando as devidas correções, segue os passos para cada caso:
 
-No caso do __terminal__, será necessário: 
+#### No caso do __terminal__
+
+Será necessário: 
 - Adidionar as alterações
 - Realizar um commit 
 
-No caso do __GitHubDescktop__, será necessário apenas realizar um commit
+#### No caso do __GitHubDescktop__
+
+Será necessário apenas realizar um commit.
 
 Lemrbando que essas alterações foram feitas somente no local, então é sugerivél que se realize um __push__
 
 Pronto, tudo certo!
 
+## Deletando Branch
+
+Existe casos em que se faz necessário apagar uma branch, seja por um erro ou mesmo porque já não há mais neceddiade de mantê-la.
+
+#### No caso do __GitHubDescktop__
+
+- verifique se você está na Branch que deseja apagar
+- No Tab Menu superior, em `Branch`, selecione `Delete...`
+- No modal que será aberto, ele pedirá a confirmação da deleção, como forma de segurança
+  - E ainda possui uma opção, `Yes, delete this branch on the remote`, Que se selecionada, deletará a branch do repositório remoto também.
+- Para confrimar, pressione `Delete`
+
+Pronto, branch deletada!
+
+##### No caso do __terminal__
+
+- Estando no diretório do projeto
+- Verifique que você __não__ esteja na branch que deseja deletar
+- Então execute o seguinte comando:
+
+        git branch -d <nome_branch>
+ 
+ OBS: o comando `-d` somente funcionara se seu _local_ está alinhado com o _remoto_
+ 
+ - Para forçar a deleção mesmo sem o alinhamento de _local_ com _remoto_, execute
+
+        git branch -D <nome_branch>
+ 
+ OBS: esse comando realizou a deleção da branch somente no repositório local
+ 
+ Caso queira realizar a exclusão do branch no repositório remoto, execute:
+ 
+        git push <remoto> --delete <nome_branch>
+ 
+ Branch remoto deletado! 
+ 

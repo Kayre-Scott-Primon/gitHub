@@ -8,7 +8,14 @@ Este estudo tem um começo mais denso, em relação a quantidade de inputs de in
 ## Conteudo
 Nele terá exemplos, dicas, fontes de estudos, curiosidades e muito mais! 
 
-[Baisco](Basico.md)
+- [Baisco](Basico.md)
+- [Branches](Branches.md)
+- [Hospedagem](Hospedagem.md)
+- [Issue](Issue.md)
+- [Markdown](Markdown.md)
+- [Pullrequest](PuellReques.md)
+- [Segurança](Segurança.md)
+- [Versionamento de projetos antigos](VersionamentoProjetoAntigo.md)
 
 ## Contribuição com informações
 Crio esse repositório de forma pública afim de atingir a todos, sendo quem está começando, sendo aqueles que já possuem conhecimento para agregar; por isso fico muito contente que leiam o documento e se possível, contribua, ou com comentários sobre indicações de estudos, correções de conteúdos,e até mesmo com elogios e/ou críticas (elas são muito importantes para nosso desenvolvimento)! 
